@@ -9,7 +9,7 @@ It contains the following:
 4.	A folder called Output that contains the CSV and PNG files that will be created by the code in the Jupyter Notebook file.
 
 ## Dataset Details
-The dataset had the following details for 780 distinct purchases made by 576 players: • Mouse ID • Sex • Age (months)• Weight (g) • Tumor Volume (mm3) • Drug Regimen
+The dataset had the following details for 249 mice treated across 10 Drug Regimens: • Mouse ID • Sex • Age (months)• Weight (g) • Tumor Volume (mm3) • Drug Regimen
 
 ## Analysis Tools
 The dataset was analyzed using pandas (which is a software library written for the Python programming language for data manipulation and analysis), and matplotlib (which is a Matplotlib is a plotting library for the Python programming language). 
